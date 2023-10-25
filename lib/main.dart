@@ -53,6 +53,12 @@ class MyApp extends StatelessWidget {
               ],
             ),
           ),
+          /*3*/
+          const Icon(
+            Icons.star,
+            color: Colors.deepPurple,
+          ),
+          const Text('41'),
         ],
       ),
     );
